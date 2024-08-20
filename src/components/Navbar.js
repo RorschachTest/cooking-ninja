@@ -3,9 +3,9 @@ import './Navbar.css'
 
 export default function Navbar() {
   return (
-    <div>
-      <nav>
-        <Link to='/'>
+    <div className="navbar">
+      <nav className="navbar">
+        <Link to='/' className="brand">
           <h1>Cooking Ninja</h1>
         </Link>
         <Link to='/create'>Create Recipe</Link>
