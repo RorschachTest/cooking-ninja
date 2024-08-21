@@ -62,6 +62,33 @@
       ],
       "method": "add all the ingredients in a mixer grinder and mix them till a uniform paste drink is prepared",
       "cookingTime": "3 minutes"
+    },
+    {
+      "id": "512d",
+      "title": "fdsfd",
+      "ingredients": [
+        "fdsf"
+      ],
+      "method": "fdsfds",
+      "cookingTime": "1 minutes"
+    },
+    {
+      "id": "124b",
+      "title": "fdsfd",
+      "ingredients": [
+        "fdsf"
+      ],
+      "method": "fdsfds",
+      "cookingTime": "1 minutes"
+    },
+    {
+      "id": "8e92",
+      "title": "fdsfd",
+      "ingredients": [
+        "11"
+      ],
+      "method": "ewr",
+      "cookingTime": "383 minutes"
     }
   ]
 }
