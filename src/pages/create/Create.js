@@ -41,7 +41,7 @@ export default function Create() {
         </label>
 
         <label>
-          <span>ingredients</span>
+          <span>Recipe Ingredients:</span>
           <div className="ingredients">
             <input 
               type="text" 
@@ -49,11 +49,10 @@ export default function Create() {
               value={newIngredient}
               ref={ingredientInput}
             />
+            <button onClick={handleAdd} className="btn">add</button>
           </div>
-          <button onClick={handleAdd} className="btn">add</button>
         </label>
         <p>Current ingredients: {ingredients && ingredients.map(i => <em key={i}>{i}, </em>)}</p>
-
 
         <label>
           <span>Recipe Method:</span>
