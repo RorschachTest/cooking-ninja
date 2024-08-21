@@ -36,6 +36,32 @@
       ],
       "method": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Esse minima ex rem quis similique eum ratione quaerat, voluptas molestias ut repudiandae delectus voluptates. Eius esse at tenetur ab accusamus excepturi?",
       "cookingTime": "35 minutes"
+    },
+    {
+      "id": "63b4",
+      "title": "masala papad",
+      "ingredients": [
+        "papad",
+        "phadi",
+        "lemon",
+        "tomato",
+        "coriander"
+      ],
+      "method": "mix all things except papad in a bowl.\nserve them over a papad",
+      "cookingTime": "5 minutes"
+    },
+    {
+      "id": "bdc8",
+      "title": "banana shake",
+      "ingredients": [
+        "banana",
+        "milk",
+        "pista",
+        "cashew",
+        "water"
+      ],
+      "method": "add all the ingredients in a mixer grinder and mix them till a uniform paste drink is prepared",
+      "cookingTime": "3 minutes"
     }
   ]
 }
