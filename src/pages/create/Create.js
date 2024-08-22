@@ -18,12 +18,7 @@ export default function Create() {
   const handleSubmit = (e) => {
     e.preventDefault()
     console.log(title, method, cookingTime)
-    postData({
-      title: title,
-      ingredients: ingredients,
-      method: method,
-      cookingTime: `${cookingTime} minutes`
-    })
+    postData({ title, ingredients, method, cookingTime: cookingTime + ' minutes' })
   }
 
   useEffect(() => {

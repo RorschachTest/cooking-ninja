@@ -89,6 +89,18 @@
       ],
       "method": "ewr",
       "cookingTime": "383 minutes"
+    },
+    {
+      "id": "fbb4",
+      "title": "chaat pakoda",
+      "ingredients": [
+        "aalo",
+        "matar",
+        "tamatar",
+        "samosa"
+      ],
+      "method": "add everything all at once",
+      "cookingTime": "12 minutes"
     }
   ]
 }
